@@ -1,6 +1,32 @@
 Course Description
+A 3 day theoretical and practical course on genomic data analysis at the Instituto Gulbenkian de Ciência (IGC).
+
+Questions such as How can I find the causative mutation of the disease in this family? or What pathways are activated in my RNA-seq experiment? are becoming more frequent as Next Generation Sequencing (NGS) technologies are increasingly used in the laboratory. This activity has been designed to provide the researchers with the skills and tools to address these questions and many other ones related.
+The whole course is composed of two group of sessions that focus on the analysis of Genomic variation and Transcriptomics of Next Generation Sequencing Data.
+
+The genomics sessions review the different NGS technologies and their applications as well as the computational requirements of NGS-based projects.
+Following an introduction to NGS of genomes, exomes and panels, attendants will learn about NGS data quality issues, data pre-processing, 
+how to compare sequenced reads with a reference genome and how to visualize the results in a genomic context. 
+Then, the main aspects of genomic variant annotation, detection and prioritization of candidate variants will be covered. 
+State-of-the-art software to assist in gene prioritization process will be used. Finally, NGS in the clinic will be reviewed with the use of panels of genes for precision diagnostic and the management of variants of uncertain effect. 
+ 
+The transcriptomics sessions is devoted to transcriptomic studies (RNA-seq and miRNA-seq). After an introduction to NGS of transcriptomes, 
+the attendants will learn to perform all the preprocessing steps to convert NGS reads into gene expression measurements. 
+Then, gene expression data will be used to determine differential expression, to cluster expression patterns, or for building predictors. Functional profiling methodologies will be used to interpret the results according to gene ontology enrichment, network analysis, etc. Finally, sophisticated methods for pathway analysis of transcriptome profiles will be demonstrated. The Babelomics suite, a well-known package of gene expression analysis, will be used to illustrate.  
+
+By the end of the course, participants will have acquired skills to interpret NGS data and to use multiple software tools for genetic variant detection and for transcriptomic studies.
+
+
 
 Target Audience
+The course is oriented to experimentalists, end-users and PhD students who want to learn about the state-of-the-art of data analysis methodologies
+in this fast developing area. Students will acquire the necessary skills for analyzing their own data using known software packages (e.g. Babelomics).
+Lectures and hands-on sessions are taught in the facilities of the IGC, which provide the ideal environment for the organization of bioinformatic courses.
+
 
 Pre-requisites
+Experience in analyzing next generation data is an advantage, but not mandatory. The course does not require computer skills.
 
+ 
+
+ 
